@@ -13,7 +13,7 @@ A list of links you and I can use to get better at cybering and coding
 - [RunCode](https://www.runcode.ninja/)
 
 ## Featuring (or at least has a category for) Forensics, Defense, or SOC:
-- [Sans Digital Forensics](https://digital-forensics.sans.org/community/challenges) - Download the evidence files, answer a bunch of questions. Learn Blue Team. Profit. 
+- [Sans Digital Forensics](https://digital-forensics.sans.org/community/challenges) - Download the evidence files. Answer a bunch of questions. Learn Blue Team. Profit. 
 - [CTFLearn](https://ctflearn.com/)
 - [Forensics Contest](http://forensicscontest.com/puzzles) - Some older stuff, but has scenarios with downloadable evidence files. 
 
