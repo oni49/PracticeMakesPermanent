@@ -12,6 +12,11 @@ A list of links you and I can use to get better at cybering and coding
 ## Online and Persistent CTFs, but for Coding:
 - [RunCode](https://www.runcode.ninja/)
 
+## Featuring (or at least has a category for) Forensics, Defense, or SOC:
+- [Sans Digital Forensics](https://digital-forensics.sans.org/community/challenges) - Download the evidence files, answer a bunch of questions. Learn Blue Team. Profit. 
+- [CTFLearn](https://ctflearn.com/)
+- [Forensics Contest](http://forensicscontest.com/puzzles) - Some older stuff, but has scenarios with downloadable evidence files. 
+
 ## List from others:
 - [The /r/hacking wiki is awesome](https://new.reddit.com/r/hacking/wiki/index#wiki_ctfs)
 - [This sticky from /r/hacking](https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/)
