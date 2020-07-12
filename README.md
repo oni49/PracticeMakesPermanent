@@ -23,5 +23,5 @@ A list of links you and I can use to get better at cybering and coding
 
 ## Subreddits
 - /r/hacking
-- /r/securityCTF
+- /r/securityCTF - one might say this is just HTB write-ups
 - /r/netsec - not CTFs, but real info
