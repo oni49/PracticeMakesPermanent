@@ -10,7 +10,7 @@ A list of links you and I can use to get better at cybering and coding
 - [VulnHub](https://www.vulnhub.com/) - Mostly boot2root VMs that you download, pop, get flags, and move on. Common to see people pop these and write them up for practice/learning
 
 ## Online and Persistent CTFs, but for Coding:
-- [RunCode](https://www.runcode.ninja/)
+- [RunCode](https://www.runcode.ninja/) - Supports many languages and takes you from easy challenges to wicked ones your computer science professor warned you about. 
 
 ## Featuring (or at least has a category for) Forensics, Defense, or SOC:
 - [Sans Digital Forensics](https://digital-forensics.sans.org/community/challenges) - Download the evidence files. Answer a bunch of questions. Learn Blue Team. Profit. 
