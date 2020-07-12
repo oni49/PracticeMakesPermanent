@@ -15,7 +15,7 @@ A list of links you and I can use to get better at cybering and coding
 ## List from others:
 - [The /r/hacking wiki is awesome](https://new.reddit.com/r/hacking/wiki/index#wiki_ctfs)
 - [This sticky from /r/hacking](https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/)
-- [Captf.com](https://captf.com/practice-ctf/)
+- [Captf.com](https://captf.com/practice-ctf/) - The list at this link is better than the list on the current page
 - [CTFTime](https://ctftime.org/) - Lists of CTF, not all are online nor persistent
 
 ## Information for learning:
